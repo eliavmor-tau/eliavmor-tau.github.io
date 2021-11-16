@@ -1,7 +1,7 @@
 ---
 title: Eliav Mor
 role: ""
-avatar_filename: profile_picture.jpeg
+avatar_filename: avatar.jpg
 bio: My research interests include explainability and model's robustness in ML
   and DL.
 social:
