@@ -11,6 +11,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/eliav-mor-b48968133/
+  - display:
+      header: false
+    link: https://www.facebook.com/eliav.mor
+    icon_pack: fab
+    icon: facebook
 organizations:
   - name: Tel Aviv University
     url: ""
