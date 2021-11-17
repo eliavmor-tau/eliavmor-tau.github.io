@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Eliav Mor</title>
+    <link>https://eliavmor-tau.github.io/project/</link>
+      <atom:link href="https://eliavmor-tau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Nov 2021 00:00:48 +0000</lastBuildDate>
+    <image>
+      <url>https://eliavmor-tau.github.io/media/icon_huc547d0259bdc6e7e33eeb3b2e3b97f0c_12109_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://eliavmor-tau.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>MonteCarlo Snake</title>
+      <link>https://eliavmor-tau.github.io/project/montecarlo-snake/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:48 +0000</pubDate>
+      <guid>https://eliavmor-tau.github.io/project/montecarlo-snake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face Detection Using Viola Jonas</title>
+      <link>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</link>
+      <pubDate>Wed, 17 Nov 2021 00:00:25 +0000</pubDate>
+      <guid>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative Coreference Resolution </title>
+      <link>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</link>
+      <pubDate>Tue, 16 Nov 2021 23:59:34 +0000</pubDate>
+      <guid>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Language Models Understand Frequent Words Better?</title>
+      <link>https://eliavmor-tau.github.io/project/do-language-models-understand-frequent-words-better/</link>
+      <pubDate>Tue, 16 Nov 2021 23:57:28 +0000</pubDate>
+      <guid>https://eliavmor-tau.github.io/project/do-language-models-understand-frequent-words-better/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
