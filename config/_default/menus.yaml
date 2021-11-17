@@ -10,3 +10,6 @@ main:
   - name: About
     url: about/
     weight: 20
+  - name: my-section.md
+    url: "/#my-section"
+    weight: 10
