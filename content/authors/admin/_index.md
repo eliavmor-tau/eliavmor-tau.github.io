@@ -8,6 +8,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
+  - display:
+      header: false
+    link: https://github.com/eliavmor-tau
+    icon_pack: fab
+    icon: github
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/eliav-mor-b48968133/
