@@ -8,7 +8,7 @@ tags:
 links:
   - url: https://github.com/eliavmor-tau/SnakeGame
 image:
-  filename: https://github.com/eliavmor-tau/SnakeGame/blob/main/snake_gif.gif
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
