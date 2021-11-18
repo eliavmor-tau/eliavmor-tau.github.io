@@ -1,6 +1,6 @@
 ---
 title: Face Detection Using Viola Jonas
-date: 2021-11-17T00:00:25.338Z
+date: 2020-06-19T15:00:25.338Z
 draft: false
 featured: false
 links:
