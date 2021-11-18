@@ -24,6 +24,8 @@ social:
 organizations:
   - name: Tel Aviv University
     url: ""
+  - name: M.Sc Computer Science student at Tel Aviv university and Algorithm
+      Engineer at Samsung Israel Research Center
 email: eliav.mor@gmail.com
 superuser: true
 ---
