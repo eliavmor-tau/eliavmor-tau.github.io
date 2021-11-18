@@ -2,8 +2,7 @@
 title: Eliav Mor
 role: ""
 avatar_filename: avatar.jpg
-bio: My research interests include explainability and model's robustness in ML
-  and DL.
+bio: ""
 social:
   - icon: envelope
     icon_pack: fas
@@ -29,7 +28,6 @@ organizations:
 email: eliav.mor@gmail.com
 superuser: true
 ---
+My name is Eliav Mor and I'm an M.Sc Computer Science student at Tel Aviv university and an Algorithm Engineer at Samsung Research Israel Center. 
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I enjoy expanding my knowledge in computer science, coding, and solving theoretical problems. I am passionate about  problem solving, algorithms, and out-of-the-box thinking. In my free time I like hiking, running, and making pottery.
