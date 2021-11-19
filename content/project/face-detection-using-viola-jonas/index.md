@@ -1,5 +1,5 @@
 ---
-title: Face Detection Using Viola Jonas
+title: Real-Time Face Detection Using Viola Jonas
 date: 2020-06-19T15:00:25.338Z
 draft: false
 featured: false
