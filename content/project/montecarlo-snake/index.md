@@ -5,8 +5,8 @@ draft: false
 featured: false
 tags:
   - "#Snake#ReinforcementLearning#MonteCarlo"
-links:
-  - url: https://github.com/eliavmor-tau/SnakeGame
+external_link: https://github.com/eliavmor-tau/SnakeGame
+links: []
 image:
   filename: featured.png
   focal_point: Smart
