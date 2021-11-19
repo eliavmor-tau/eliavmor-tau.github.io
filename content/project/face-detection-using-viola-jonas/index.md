@@ -12,4 +12,6 @@ image:
 ---
 As part of of my passion to CV algorithms, I challenged myself to implement a real-time algorithm for face detection from *scratch*.
 
-For more details please visit my [github](https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md).
+The Viola Jones is a very light-weight FD algorithm that combines a set of weak (and fast) classifiers into a single strong classifier using boosting.
+
+More details, demo and code are available in my [GitHub](https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md) repository.
