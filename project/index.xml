@@ -5,7 +5,7 @@
     <link>https://eliavmor-tau.github.io/project/</link>
       <atom:link href="https://eliavmor-tau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Nov 2021 23:59:34 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 16:58:34 +0000</lastBuildDate>
     <image>
       <url>https://eliavmor-tau.github.io/media/icon_huc547d0259bdc6e7e33eeb3b2e3b97f0c_12109_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -15,9 +15,11 @@
     <item>
       <title>Generative Coreference Resolution </title>
       <link>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</link>
-      <pubDate>Tue, 16 Nov 2021 23:59:34 +0000</pubDate>
+      <pubDate>Mon, 30 Aug 2021 16:58:34 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</guid>
-      <description></description>
+      <description>&lt;p&gt;The final project of the course AMNLP (Advanced methods in NLP), together with &lt;a href=&#34;https://www.linkedin.com/in/shimon-malnick-1b8404125/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shimon Malnick&lt;/a&gt;, we performed an analysis of fine-tuning BART and T5 to solve the CR task on the OntoNotes benchmark. Our best model achieves an average F1 score of 36.8% on CoNLL, while limiting the input length  (due to resource constraints). Our code is publicly available in our github &lt;a href=&#34;https://github.com/ShimonMalnick/Generative-Coreference-Resolution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Further details can be found in the &lt;a href=&#34;https://drive.google.com/file/d/1UZ4IZqfQ-GxO6Hk_L5fLMc2BouO2079s/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -42,7 +44,7 @@
     </item>
     
     <item>
-      <title>MonteCarlo Snake</title>
+      <title>Monte-Carlo Snake</title>
       <link>https://eliavmor-tau.github.io/project/montecarlo-snake/</link>
       <pubDate>Thu, 07 May 2020 13:00:00 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/montecarlo-snake/</guid>
