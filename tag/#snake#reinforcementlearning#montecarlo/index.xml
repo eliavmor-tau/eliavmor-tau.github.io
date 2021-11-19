@@ -17,8 +17,15 @@
       <link>https://eliavmor-tau.github.io/project/montecarlo-snake/</link>
       <pubDate>Thu, 07 May 2020 13:00:00 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/montecarlo-snake/</guid>
-      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update.&lt;/p&gt;
-&lt;p&gt;For more details please visit my &lt;a href=&#34;https://github.com/eliavmor-tau/SnakeGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; and clone the code!&lt;/p&gt;
+      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update. More details can be found in the code!&lt;/p&gt;
+&lt;p&gt;The project is composed of two main scripts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scripts/snake.py - Contains the snake logic (Monte-carlo, Q-learning, train/test loop). In order to train and test your algorithm please change the relevant parameters under the &lt;strong&gt;main&lt;/strong&gt; section.&lt;/li&gt;
+&lt;li&gt;scripts/SnakeGame.py - The actual snake game - (based on OpenAI Gym API &lt;a href=&#34;https://gym.openai.com/envs/#classic_control&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://gym.openai.com/envs/#classic_control&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to add you own algorithm and test it using the SnakeGame class in SnakeGame.py!&lt;/p&gt;
+&lt;p&gt;Enjoy!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eliavmor-tau/SnakeGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github repository&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
