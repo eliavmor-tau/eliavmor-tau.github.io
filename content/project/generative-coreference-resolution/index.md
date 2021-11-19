@@ -9,6 +9,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-The final project of the course AMNLP (Advanced methods in NLP), together with [Shimon Malnick](https://www.linkedin.com/in/shimon-malnick-1b8404125/), we performed an analysis of fine-tuning BART and T5 to solve the CR task on the OntoNotes benchmark. Our best model achieves an average F1 score of 36.8% on CoNLL, while limiting the input length  (due to resource constraints). Our code is publicly available in our github [repository](https://github.com/ShimonMalnick/Generative-Coreference-Resolution).
+The final project of the course AMNLP (Advanced methods in NLP), together with [Shimon Malnick](https://www.linkedin.com/in/shimon-malnick-1b8404125/), we tried to solve the CR resolution task on the OntoNotes benchmark by fine-tuning BART and T5. Our best model achieves an average F1 score of 36.8% on CoNLL, while limiting the input length  (due to resource constraints). Our code is publicly available in our github [repository](https://github.com/ShimonMalnick/Generative-Coreference-Resolution).
 
 Further details can be found in the [report](https://drive.google.com/file/d/1UZ4IZqfQ-GxO6Hk_L5fLMc2BouO2079s/view).
