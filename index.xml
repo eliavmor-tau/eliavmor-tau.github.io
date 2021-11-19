@@ -23,13 +23,16 @@
     <item>
       <title>Do Language Models Understand Frequent Words Better?</title>
       <link>https://eliavmor-tau.github.io/project/do-language-models-understand-frequent-words-better/</link>
-      <pubDate>Tue, 16 Nov 2021 23:57:28 +0000</pubDate>
+      <pubDate>Sun, 21 Feb 2021 23:57:28 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/do-language-models-understand-frequent-words-better/</guid>
-      <description></description>
+      <description>&lt;p&gt;Pre-trained language models (LMs) have recently demonstrated outstanding results across a variety of tasks. However, it remains unclear precisely what knowledge the LM manages to capture during pre-training and how word frequency in the training corpus affects the acquisition of knowledge about these words.&lt;/p&gt;
+&lt;p&gt;As part of the final project of NLP course I explored the correlation between word occurrence in the language and general world knowledge acquired by a Language Model during pre-training. In my work I propose a framework for testing this subject, using a downstream &amp;ldquo;Yes/No&amp;rdquo; QA task. My findings show positive correlations between: (a) word occurrence and the accuracy of answers for this word. (b) co-occurrence of two words and a tendency of the model to answer &amp;ldquo;Yes&amp;rdquo; for questions about their relation.&lt;/p&gt;
+&lt;p&gt;Further details can be found in my &lt;a href=&#34;https://github.com/eliavmor-tau/DoLMUnderstandFrequentWordsBetter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; and &lt;a href=&#34;https://github.com/eliavmor-tau/DoLMUnderstandFrequentWordsBetter/blob/main/Do%20Language%20Models%20Understand%20Frequent%20Word%20Better.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Face Detection Using Viola Jonas</title>
+      <title>Real-Time Face Detection Using Viola Jonas</title>
       <link>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</link>
       <pubDate>Fri, 19 Jun 2020 15:00:25 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</guid>
