@@ -17,7 +17,7 @@
       <link>https://eliavmor-tau.github.io/project/montecarlo-snake/</link>
       <pubDate>Thu, 07 May 2020 13:00:00 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/montecarlo-snake/</guid>
-      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update. More details can be found in the code!&lt;/p&gt;
+      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Masters. The learning algorithm of the snake is based on Monte-Carlo using every visit update. More details can be found in the code!&lt;/p&gt;
 &lt;p&gt;The project is composed of two main scripts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;scripts/snake.py - Contains the snake logic (Monte-carlo, Q-learning, train/test loop). In order to train and test your algorithm please change the relevant parameters under the &lt;strong&gt;main&lt;/strong&gt; section.&lt;/li&gt;

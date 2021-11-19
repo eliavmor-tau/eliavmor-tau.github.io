@@ -17,7 +17,7 @@
       <link>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</link>
       <pubDate>Mon, 30 Aug 2021 16:58:34 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</guid>
-      <description>&lt;p&gt;The final project of the course AMNLP (Advanced methods in NLP), together with &lt;a href=&#34;https://www.linkedin.com/in/shimon-malnick-1b8404125/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shimon Malnick&lt;/a&gt;, we tried to solve the CR resolution task on the OntoNotes benchmark by fine-tuning BART and T5. Our best model achieved an average F1 score of 36.8% on CoNLL, while limiting the input length (due to resource constraints). Our analysis provides a&lt;/p&gt;
+      <description>&lt;p&gt;The final project of the course AMNLP (Advanced methods in NLP).  &lt;a href=&#34;https://www.linkedin.com/in/shimon-malnick-1b8404125/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shimon Malnick&lt;/a&gt; and I tried to solve the CR resolution task on the OntoNotes benchmark by fine-tuning BART and T5. Our best model achieved an average F1 score of 36.8% on CoNLL, while limiting the input length (due to resource constraints). Our analysis provides a&lt;/p&gt;
 &lt;p&gt;More details and code can be found in our Github &lt;a href=&#34;https://github.com/ShimonMalnick/Generative-Coreference-Resolution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt; and &lt;a href=&#34;https://drive.google.com/file/d/1UZ4IZqfQ-GxO6Hk_L5fLMc2BouO2079s/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
@@ -38,7 +38,7 @@
       <link>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</link>
       <pubDate>Fri, 19 Jun 2020 15:00:25 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</guid>
-      <description>&lt;p&gt;As part of of my passion to CV algorithms, I challenged myself to implement a real-time algorithm for face detection from &lt;em&gt;scratch&lt;/em&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;As part of of my passion for CV algorithms, I challenged myself to implement a real-time algorithm for face detection from &lt;em&gt;scratch&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;The Viola Jones is a very light-weight FD algorithm that combines a set of weak (and fast) classifiers into a single strong classifier using boosting.&lt;/p&gt;
 &lt;p&gt;More details, demo and code are available in my &lt;a href=&#34;https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; repository.&lt;/p&gt;
 </description>
@@ -49,7 +49,7 @@
       <link>https://eliavmor-tau.github.io/project/montecarlo-snake/</link>
       <pubDate>Thu, 07 May 2020 13:00:00 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/montecarlo-snake/</guid>
-      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update. More details can be found in the code!&lt;/p&gt;
+      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Masters. The learning algorithm of the snake is based on Monte-Carlo using every visit update. More details can be found in the code!&lt;/p&gt;
 &lt;p&gt;The project is composed of two main scripts:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;scripts/snake.py - Contains the snake logic (Monte-carlo, Q-learning, train/test loop). In order to train and test your algorithm please change the relevant parameters under the &lt;strong&gt;main&lt;/strong&gt; section.&lt;/li&gt;
