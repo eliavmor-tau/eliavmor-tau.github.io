@@ -17,8 +17,8 @@
       <link>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</link>
       <pubDate>Mon, 30 Aug 2021 16:58:34 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/generative-coreference-resolution/</guid>
-      <description>&lt;p&gt;The final project of the course AMNLP (Advanced methods in NLP), together with &lt;a href=&#34;https://www.linkedin.com/in/shimon-malnick-1b8404125/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shimon Malnick&lt;/a&gt;, we tried to solve the CR resolution task on the OntoNotes benchmark by fine-tuning BART and T5. Our best model achieved an average F1 score of 36.8% on CoNLL, while limiting the input length (due to resource constraints). Our code is publicly available in our github &lt;a href=&#34;https://github.com/ShimonMalnick/Generative-Coreference-Resolution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Further details can be found in the &lt;a href=&#34;https://drive.google.com/file/d/1UZ4IZqfQ-GxO6Hk_L5fLMc2BouO2079s/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;The final project of the course AMNLP (Advanced methods in NLP), together with &lt;a href=&#34;https://www.linkedin.com/in/shimon-malnick-1b8404125/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Shimon Malnick&lt;/a&gt;, we tried to solve the CR resolution task on the OntoNotes benchmark by fine-tuning BART and T5. Our best model achieved an average F1 score of 36.8% on CoNLL, while limiting the input length (due to resource constraints). Our analysis provides a&lt;/p&gt;
+&lt;p&gt;More details and code can be found in our Github &lt;a href=&#34;https://github.com/ShimonMalnick/Generative-Coreference-Resolution&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;repository&lt;/a&gt; and &lt;a href=&#34;https://drive.google.com/file/d/1UZ4IZqfQ-GxO6Hk_L5fLMc2BouO2079s/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;report&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -39,7 +39,8 @@
       <pubDate>Fri, 19 Jun 2020 15:00:25 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</guid>
       <description>&lt;p&gt;As part of of my passion to CV algorithms, I challenged myself to implement a real-time algorithm for face detection from &lt;em&gt;scratch&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;For more details please visit my &lt;a href=&#34;https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The Viola Jones is a very light-weight FD algorithm that combines a set of weak (and fast) classifiers into a single strong classifier using boosting.&lt;/p&gt;
+&lt;p&gt;More details, demo and code are available in my &lt;a href=&#34;https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt; repository.&lt;/p&gt;
 </description>
     </item>
     
@@ -56,7 +57,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Feel free to add you own algorithm and test it using the SnakeGame class in SnakeGame.py!&lt;/p&gt;
 &lt;p&gt;Enjoy!&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/eliavmor-tau/SnakeGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github repository&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/eliavmor-tau/SnakeGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub repository&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
