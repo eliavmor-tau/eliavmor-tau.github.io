@@ -1,5 +1,5 @@
 ---
-title: MonteCarlo Snake
+title: Monte-Carlo Snake
 date: 2020-05-07T13:00:00.000Z
 draft: false
 featured: false
