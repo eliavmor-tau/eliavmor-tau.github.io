@@ -23,4 +23,4 @@ Feel free to add you own algorithm and test it using the SnakeGame class in Snak
 
 Enjoy!
 
-[github repository](https://github.com/eliavmor-tau/SnakeGame)
+[GitHub repository](https://github.com/eliavmor-tau/SnakeGame)
