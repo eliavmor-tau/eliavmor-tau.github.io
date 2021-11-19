@@ -12,4 +12,6 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update. More details can be found in the code!
+A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update. 
+
+For more details please visit my [github](https://github.com/eliavmor-tau/SnakeGame) and clone the code!
