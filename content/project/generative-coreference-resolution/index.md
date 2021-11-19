@@ -1,6 +1,6 @@
 ---
 title: "Generative Coreference Resolution "
-date: 2021-11-16T23:59:34.585Z
+date: 2021-08-30T16:58:34.585Z
 draft: false
 featured: false
 external_link: https://github.com/ShimonMalnick/Generative-Coreference-Resolution
