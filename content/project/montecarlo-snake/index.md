@@ -8,7 +8,7 @@ tags:
 external_link: https://github.com/eliavmor-tau/SnakeGame
 links: []
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
