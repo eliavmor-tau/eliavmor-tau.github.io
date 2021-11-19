@@ -12,4 +12,4 @@ image:
 ---
 As part of of my passion to CV algorithms, I challenged myself to implement a real-time algorithm for face detection from *scratch*.
 
-This repo contains an end-to-end implementation of the Viola Jones algorithm for real-time face detection.
+For more details please visit my [github](https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md).
