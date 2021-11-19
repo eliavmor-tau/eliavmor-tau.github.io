@@ -3,8 +3,8 @@ title: Real-Time Face Detection Using Viola Jonas
 date: 2020-06-19T15:00:25.338Z
 draft: false
 featured: false
-links:
-  - url: https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md
+external_link: https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md
+links: []
 image:
   filename: featured.png
   focal_point: Smart
