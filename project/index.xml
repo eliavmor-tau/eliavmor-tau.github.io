@@ -34,7 +34,7 @@
       <pubDate>Fri, 19 Jun 2020 15:00:25 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/face-detection-using-viola-jonas/</guid>
       <description>&lt;p&gt;As part of of my passion to CV algorithms, I challenged myself to implement a real-time algorithm for face detection from &lt;em&gt;scratch&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;This repo contains an end-to-end implementation of the Viola Jones algorithm for real-time face detection.&lt;/p&gt;
+&lt;p&gt;For more details please visit my &lt;a href=&#34;https://github.com/eliavmor-tau/ViolaJonesFD/blob/main/README.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -43,7 +43,8 @@
       <link>https://eliavmor-tau.github.io/project/montecarlo-snake/</link>
       <pubDate>Thu, 07 May 2020 13:00:00 +0000</pubDate>
       <guid>https://eliavmor-tau.github.io/project/montecarlo-snake/</guid>
-      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update. More details can be found in the code!&lt;/p&gt;
+      <description>&lt;p&gt;A simple reinforcement learning (snake) game that I wrote for fun while exploring RL during my Master. The learning algorithm of the snake is based on Monte-Carlo using every visit update.&lt;/p&gt;
+&lt;p&gt;For more details please visit my &lt;a href=&#34;https://github.com/eliavmor-tau/SnakeGame&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; and clone the code!&lt;/p&gt;
 </description>
     </item>
     
