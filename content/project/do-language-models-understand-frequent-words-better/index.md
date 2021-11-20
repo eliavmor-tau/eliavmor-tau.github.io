@@ -14,6 +14,4 @@ Pre-trained language models (LMs) have recently demonstrated outstanding results
 
 As part of the final project of NLP course I explored the correlation between word occurrence in the language and general world knowledge acquired by a Language Model during pre-training. In my work I propose a framework for testing this subject, using a downstream "Yes/No" QA task. My findings show positive correlations between: (a) word occurrence and the accuracy of answers for this word. (b) co-occurrence of two words and a tendency of the model to answer "Yes" for questions about their relation.
 
-
-
-Further details can be found in my [github](https://github.com/eliavmor-tau/DoLMUnderstandFrequentWordsBetter) and [paper](https://github.com/eliavmor-tau/DoLMUnderstandFrequentWordsBetter/blob/main/Do%20Language%20Models%20Understand%20Frequent%20Word%20Better.pdf).
+Further details can be found in my [GitHub](https://github.com/eliavmor-tau/DoLMUnderstandFrequentWordsBetter) and [paper](https://github.com/eliavmor-tau/DoLMUnderstandFrequentWordsBetter/blob/main/Do%20Language%20Models%20Understand%20Frequent%20Word%20Better.pdf).
